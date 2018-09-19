@@ -1,0 +1,25 @@
+{
+  "name": "talk-to-me",
+  "version": "1.0.0",
+  "description": "A simple Chat application which interacts with end-user in their day to day activities based on their interests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajimitara/talk-to-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajimitara/talk-to-me/issues"
+  },
+  "homepage": "https://github.com/rajimitara/talk-to-me#readme",
+  "dependencies": {
+    "webpack": "^4.19.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.0"
+  }
+}
